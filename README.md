@@ -90,9 +90,3 @@ Ryan Gading Abdullah
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/RyanGA09)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryan_g._a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-gading-abdullah/)
-
-## 🪪 LICENSE
-
-Copyright &copy; 2025 Ryan Gading Abdullah. All rights reserved.
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) for details.
