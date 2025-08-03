@@ -1,0 +1,16 @@
+# For web scraping
+requests
+beautifulsoup4
+
+# For data manipulation and analysis
+pandas
+
+# For Data Visualization
+seaborn
+matplotlib
+
+# For notebook annotation
+notebook
+
+# Optional (used in Iris dataset loading and basic preprocessing)
+scikit-learn
