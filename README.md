@@ -53,10 +53,11 @@ DigiTalent_IntermediateDataScience-SelfPractice/
 │   └── train_prices.csv           # Kaggle dataset (not included in repo)
 │
 ├── notebooks/                     # Jupyter notebooks
-│   ├── self_practice-1.ipynb
-│   ├── self_practice-2.ipynb
+│   ├── self_practice-1.ipynb     # Data Screening
+│   ├── self_practice-2.ipynb     # Data Object: Basic Analysis
 │   ├── self_practice-3.ipynb
-│   └── self_practice-4.ipynb
+│   ├── self_practice-4.ipynb
+│   └── self_practice-5.ipynb
 │
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # Project overview and setup instructions
