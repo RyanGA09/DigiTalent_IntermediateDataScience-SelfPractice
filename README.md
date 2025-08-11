@@ -4,46 +4,6 @@
 
 July 2025
 
-## 📜 Description
-
-This repository contains hands-on exercises and learning materials from DigiTalent’s _Intermediate Data Science_ training. The focus topics include:
-
-- 🌐 Data Scraping
-  Learn how to acquire data from various web sources using automated tools.
-  Subtopics:
-
-  - What is Data?
-  - Data Collection Methods
-  - Data Scraping Tools
-  - Data Integrity & Ethics
-  - Hands-on Practice through the included self-practice exercises
-
-- 📈 Data Exploration
-  Analyze and understand the structure and patterns in your data.
-  Subtopics:
-
-  - Data Understanding
-  - Reviewing Dataset Structure
-  - Data Validation Techniques
-  - Hands-on Practice through the included self-practice exercises
-
-- 🧹 Data Cleansing
-  Clean and refine your dataset to ensure quality and reliability.
-  Subtopics:
-
-  - Data Cleaning Concepts
-  - Handling Missing & Duplicate Values
-  - Data Reduction Strategies
-  - Hands-on Practice through the included self-practice exercises
-
-- 🏷️ Data Annotation
-  Prepare labeled datasets for use in supervised machine learning tasks.
-  Subtopics:
-  - Defining Labels & Categories
-  - Data Annotation Techniques
-  - Manual & Assisted Labeling Tools
-  - Hands-on Practice through the included self-practice exercises
-
 ## 🗂️ Repository Structure
 
 ```bash
@@ -54,10 +14,10 @@ DigiTalent_IntermediateDataScience-SelfPractice/
 ├── notebooks/                     # Jupyter notebooks
 │   ├── self_practice-1.ipynb     # Data Screening
 │   ├── self_practice-2.ipynb     # Data Object: Basic Analysis
-│   ├── self_practice-3.ipynb
-│   ├── self_practice-4.ipynb
-│   ├── self_practice-5.ipynb
-│   └── self_practice-6.ipynb
+│   ├── self_practice-3.ipynb     # Construction & Documentation
+│   ├── self_practice-4.ipynb     # Model Design Strategy
+│   ├── self_practice-5.ipynb     # Modeling Application
+│   └── self_practice-6.ipynb     # Evaluation of Modeling Results
 │
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # Project overview and setup instructions

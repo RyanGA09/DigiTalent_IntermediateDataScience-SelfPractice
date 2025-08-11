@@ -14,3 +14,6 @@ notebook
 
 # Optional (used in Iris dataset loading and basic preprocessing)
 scikit-learn
+
+# For Deep Learning
+tensorflow
