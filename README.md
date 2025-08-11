@@ -49,15 +49,15 @@ This repository contains hands-on exercises and learning materials from DigiTale
 ```bash
 DigiTalent_IntermediateDataScience-SelfPractice/
 ├── data/                          # Contains raw/external datasets
-│   ├── Data_Nasabah.csv           # Local dataset
-│   └── train_prices.csv           # Kaggle dataset (not included in repo)
+│   └── Data_Nasabah.csv           # Local dataset
 │
 ├── notebooks/                     # Jupyter notebooks
 │   ├── self_practice-1.ipynb     # Data Screening
 │   ├── self_practice-2.ipynb     # Data Object: Basic Analysis
 │   ├── self_practice-3.ipynb
 │   ├── self_practice-4.ipynb
-│   └── self_practice-5.ipynb
+│   ├── self_practice-5.ipynb
+│   └── self_practice-6.ipynb
 │
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # Project overview and setup instructions
