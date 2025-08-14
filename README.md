@@ -8,10 +8,10 @@ July 2025
 
 ```bash
 DigiTalent_IntermediateDataScience-SelfPractice/
-├── data/                          # Contains raw/external datasets
-│   └── Data_Nasabah.csv           # Local dataset
+├── data/                         # Contains raw/external datasets
+│   └── Data_Nasabah.csv          # Local dataset
 │
-├── notebooks/                     # Jupyter notebooks
+├── notebooks/                    # Jupyter notebooks
 │   ├── self_practice-1.ipynb     # Data Screening
 │   ├── self_practice-2.ipynb     # Data Object: Basic Analysis
 │   ├── self_practice-3.ipynb     # Construction & Documentation
@@ -19,13 +19,11 @@ DigiTalent_IntermediateDataScience-SelfPractice/
 │   ├── self_practice-5.ipynb     # Modeling Application
 │   └── self_practice-6.ipynb     # Evaluation of Modeling Results
 │
-├── requirements.txt               # Python dependencies
-├── README.md                      # Project overview and setup instructions
-└── .gitignore                     # Files/folders to exclude from version control
+├── requirements.txt              # Python dependencies
+├── README.md                     # Project overview and setup instructions
+└── .gitignore                    # Files/folders to exclude from version control
 
 ```
-
-**⚠️ Note: data/train_prices.csv is downloaded via the Kaggle API and is not included in this repository. Make sure to download it manually before running related notebooks.**
 
 ## 🚀 How to Use
 
@@ -35,13 +33,25 @@ DigiTalent_IntermediateDataScience-SelfPractice/
    git clone https://github.com/RyanGA09/DigiTalent_IntermediateDataScience-SelfPractice.git
    ```
 
-2. 📦 Install the environment (recommended to use venv or conda):
+2. **Change Directory**
+
+   ```bash
+   cd DigiTalent_IntermediateDataScience-SelfPractice.git
+   ```
+
+3. **Open in VS Code**
+
+   ```bash
+   code .
+   ```
+
+4. 📦 Install the environment (recommended to use venv or conda):
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. 📘 Open the notebook corresponding to the topic you want to learn and run the code cells sequentially.
+5. 📘 Open the notebook corresponding to the topic you want to learn and run the code cells sequentially.
 
 ## 👨‍💻 Author
 
